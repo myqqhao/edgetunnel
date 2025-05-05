@@ -3,6 +3,7 @@
 
 - **edgetunnel 最新教程**：https://www.youtube.com/watch?v=tKe9xUuFODA ***必看内容!必看内容!必看内容!!!***
 - **报错 Error 1101 详解**：https://www.youtube.com/watch?v=r4uVTEJptdE
+- **CloudFlare官方优选IP**：https://cf.090227.xyz/
 
 Telegram交流群：[@CMLiussss](https://t.me/CMLiussss)，**感谢[Alice Networks](https://url.cmliussss.com/alice)提供的云服务器维持[CM订阅转换服务](https://sub.cmliussss.net/)！**
 
